@@ -18,6 +18,8 @@
 
 ![SDLC image](https://civenty.com/uploads/content_image/60c378a947a2a777822625.png)
 
+![SDLC image relative path](SDLC.png)
+
 
 
 
